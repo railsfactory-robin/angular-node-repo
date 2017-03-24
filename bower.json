@@ -1,0 +1,25 @@
+{
+  "name": "angular-grunt",
+  "version": "0.0.1",
+  "dependencies": {
+    "angular": "1.6.1",
+    "angular-aria": "1.6.1",
+    "angular-animate": "1.6.1",
+    "angular-messages": "1.6.1",
+    "angular-material": "1.1.3",
+    "angular-chart.js": "~0.8.4",
+    "angular-cookies": "~1.4.7",
+    "angular-drag-and-drop-lists": "~1.3.0",
+    "angular-facebook": "~0.2.3",
+    "angular-google-plus": "~0.1.3",
+    "angular-growl-v2": "~0.7.9",
+    "angular-material-icons": "~0.6.0",
+    "angular-route": "~1.4.4",
+    "angular-slimscroll": "~1.1.5",
+    "angular-timer": "~1.3.3",
+    "angular-ui-router": "~0.3"
+  },
+  "resolutions": {
+    "angular": "1.6.1"
+  }
+}
